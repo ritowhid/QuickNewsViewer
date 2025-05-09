@@ -4,11 +4,11 @@ plugins {
 }
 
 android {
-    namespace = "com.program.recyclerview"
+    namespace = "com.program.quicknews"
     compileSdk = 35
 
     defaultConfig {
-        applicationId = "com.program.recyclerview"
+        applicationId = "com.program.quicknews"
         minSdk = 24
         targetSdk = 35
         versionCode = 1

@@ -1,4 +1,4 @@
-package com.program.recyclerview
+package com.program.quicknews
 
 import org.junit.Test
 

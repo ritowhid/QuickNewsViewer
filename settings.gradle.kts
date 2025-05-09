@@ -19,5 +19,5 @@ dependencyResolutionManagement {
     }
 }
 
-rootProject.name = "recycler view"
+rootProject.name = "quick news"
 include(":app")

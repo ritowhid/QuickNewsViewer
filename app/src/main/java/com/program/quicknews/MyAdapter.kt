@@ -1,4 +1,4 @@
-package com.program.recyclerview
+package com.program.quicknews
 
 import android.app.Activity
 import android.view.LayoutInflater
@@ -7,6 +7,7 @@ import android.view.ViewGroup
 import android.widget.TextView
 import androidx.recyclerview.widget.RecyclerView
 import com.google.android.material.imageview.ShapeableImageView
+import com.program.quicknews.R
 
 class MyAdapter(
     private var newsArrayList: ArrayList<News>,

@@ -1,11 +1,11 @@
-package com.program.recyclerview
+package com.program.quicknews
 
 import android.content.Intent
 import android.os.Bundle
 import androidx.appcompat.app.AppCompatActivity
 import androidx.recyclerview.widget.LinearLayoutManager
 import androidx.recyclerview.widget.RecyclerView
-import com.program.recyclerview.databinding.ActivityMainBinding
+import com.program.quicknews.databinding.ActivityMainBinding
 
 class MainActivity : AppCompatActivity() {
 
